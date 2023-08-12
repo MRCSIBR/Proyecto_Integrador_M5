@@ -22,5 +22,10 @@ El repositorio está organizado de la siguiente manera:
 
 
 ## Estado Actual (WIP - Work in Progress)
-
 Este proyecto se encuentra actualmente en desarrollo y sigue evolucionando.
+
+## Instrucciones:
+
+Abrir el archivo .pbix con Power BI desktop
+
+
