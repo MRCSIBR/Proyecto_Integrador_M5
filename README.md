@@ -1,6 +1,6 @@
 # Proyecto Integrador Módulo 5: Análisis de Métricas de Ventas de Videojuegos de Consola
 
-¡Bienvenidos al repositorio del Proyecto Integrador del Módulo 5! En este proyecto realizaremos un analisis de las métricas de ventas de videojuegos de consola para obtener información valiosa sobre el mercado de los videojuegos y las tendencias de consumo. Este README proporciona una visión general del  proyectoy  su estructura .
+¡Bienvenidos al repositorio del Proyecto Integrador del Módulo 5! En este proyecto realizaremos un analisis de las métricas de ventas de videojuegos de consola para obtener información valiosa sobre el mercado de los videojuegos y las tendencias de consumo. Este README proporciona una visión general del  proyecto y  su estructura .
 
 ## Objetivos del Proyecto
 
